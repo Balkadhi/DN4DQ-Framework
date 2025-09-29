@@ -3,14 +3,14 @@
 This repository provides the supporting materials used to evaluate the framework, including:
 
 **1- Experiment File:**
-- Dataset and Issues classification.
-- Nudging Chatbot Script.
-- Consent Form.
-- Instruction Sheet.
-- Post-experiment Survey.
+- Dataset and issues classification.
+- Nudging chatbot script.
+- Consent form.
+- Instruction sheet.
+- Post-experiment survey.
 
 **2- Expert Feedback File:**
-- Expert Participation Sheet.
-- Expert Evaluation Form.
-- Expert Interview Questions.
+- Expert participation sheet.
+- Expert evaluation form.
+- Expert interview questions.
 
